@@ -2,5 +2,6 @@
 По запросу, получает от сервера Json строку с содержимым, запрашиваемой директории.
 
 Двойное нажатие по папке в компоненте treeWidget, отправляем новый запрос серверу, для получения новых даных.
-
+> Работает в паре с приложением https://github.com/hakim-xac/TcpServer - Сервер.
 <img width="802" height="784" alt="image" src="https://github.com/user-attachments/assets/82dd7ba6-ec41-49ea-8f2c-15ccbfabfb55" />
+
